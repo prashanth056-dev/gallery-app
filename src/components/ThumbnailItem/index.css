@@ -1,0 +1,17 @@
+/* Write your code here. */
+.thumbImg {
+  height: 50px;
+  width: 50px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.list {
+  list-style: none;
+}
+.btn {
+  border: 0px;
+  margin-right: 20px;
+  background-color: #00000000;
+}

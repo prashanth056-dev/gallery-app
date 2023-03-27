@@ -1,0 +1,15 @@
+/* Write your code here. */
+.mainBg {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.img {
+  width: 60%;
+  height: 70%;
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
